@@ -1,11 +1,7 @@
 browser-percentile-overlay
 ==========================
 
-Bookmarklet that superimposes a png containing common browser percentiles. 
-
-# Browser Overlay Bookmarklet
-
-This bookmarklet overlays a transparent png which shows  averaged browser height percentiles. 
+This bookmarklet overlays a transparent png which shows averaged browser height percentiles. 
 
 ![screenshot](http://f.cl.ly/items/0f1S3V08062M191T1g1W/Hacker_News.png)
 
