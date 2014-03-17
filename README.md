@@ -1,5 +1,5 @@
-browser-percentile-overlay
-==========================
+Browser Percentile Bookmarklet
+==============================
 
 This bookmarklet overlays a transparent png which shows averaged browser height percentiles. 
 
