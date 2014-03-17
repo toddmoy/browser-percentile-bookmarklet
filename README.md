@@ -3,7 +3,7 @@ browser-percentile-overlay
 
 This bookmarklet overlays a transparent png which shows averaged browser height percentiles. 
 
-![screenshot](http://f.cl.ly/items/0f1S3V08062M191T1g1W/Hacker_News.png)
+![screenshot](http://f.cl.ly/items/1K0X0T360Z3V2d1X3517/browser-overlay-example.png)
 
 ## To install
 
