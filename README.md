@@ -9,7 +9,7 @@ This bookmarklet overlays a transparent png which shows averaged browser height 
 
 In Chrome:
 
-1. Add a new bookmark
+1. Add a new bookmark: Bookmarks > Bookmark Manager > Organize > Add Page
 1. In the URL field, paste in the following code
 
 ```
